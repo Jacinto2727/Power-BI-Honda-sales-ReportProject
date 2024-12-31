@@ -36,5 +36,5 @@ Researchers studying the global automotive and motorcycle industry.
 Enthusiasts interested in Honda's growth and diversification.
 
 References:
-Data sourced from Honda's official website: Honda Financial Data - Monthly.
+Data sourced from Honda's official website: https://global.honda/en/investors/financial_data/monthly.html
 
