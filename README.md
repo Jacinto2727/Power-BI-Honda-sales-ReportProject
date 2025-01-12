@@ -1,6 +1,6 @@
 Honda Motors Performance Report (FY 2023 - October 2024)
 Overview:
-This report provides detailed insights into the production, sales, and export performance of Honda Motors during the financial year 2023 and up to October 2024 along with a csv file covering major insights from 2018-22. The data has been collected from the official Honda website: https://global.honda/en/investors/financial_data/monthly.html
+This report provides detailed insights into the production, sales, and export performance of Honda Motors during the financial year 2023 and up to October 2024 along with a csv file covering major insights from 2018-22. The data has been collected from the official Honda website.
 
 About Honda
 Honda Motor Co., Ltd. was founded in October 1946 by Soichiro Honda and has since become a global leader in the automotive and motorcycle industries. Below are key highlights of Honda's achievements and business areas:
@@ -21,7 +21,7 @@ Established GE Honda Aero Engines in 2004.
 Began production of the Honda HA-420 HondaJet in 2012.
 Global Reach: Operates two joint ventures in China — Dongfeng Honda and GAC Honda.
 
-Dataset Details
+Dataset Details:
 The dataset used for this report has been sourced directly from Honda's official website and includes:
 Monthly production data
 Sales performance metrics
